@@ -1,0 +1,49 @@
+{
+    "os": "macOS-14.2.1-arm64-arm-64bit",
+    "python": "3.9.6",
+    "heartbeatAt": "2024-04-27T04:11:00.062351",
+    "startedAt": "2024-04-27T04:10:59.699864",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/Users/ns/Desktop/Lab_Braatz/expert/jaxpi/misc.py",
+    "codePathLocal": "misc.py",
+    "codePath": "misc.py",
+    "git": {
+        "remote": "https://github.com/sagarnidhish/jaxpi.git",
+        "commit": "ff92bac5cd4b9ea5d6d97ee72c824d6e97b504f4"
+    },
+    "email": "sagarnidhish@gmail.com",
+    "root": "/Users/ns/Desktop/Lab_Braatz/expert/jaxpi",
+    "host": "dhcp-10-31-183-153.dyn.MIT.EDU",
+    "username": "ns",
+    "executable": "/Library/Developer/CommandLineTools/usr/bin/python3",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 3504,
+        "min": 600,
+        "max": 3504
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3504,
+            "min": 600,
+            "max": 3504
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 460.4317207336426,
+            "used": 13.372184753417969
+        }
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 16.0
+    }
+}

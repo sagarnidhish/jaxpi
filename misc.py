@@ -1,7 +1,7 @@
 # train.py
 import wandb
 import random  # for demo script
-
+2
 wandb.login()
 
 epochs = 10
